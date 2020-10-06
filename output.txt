@@ -1,10 +1,10 @@
 path_to_goal:     ['Down', 'Right', 'Up', 'Up', 'Left', 'Down', 'Right', 'Down', 'Left', 'Up', 'Left', 'Up', 'Right', 'Right', 'Down', 'Down', 'Left', 'Left', 'Up', 'Up']
-nodes_expanded:   4032
+nodes_expanded:   583
 search_depth:     21
-max_search_depth: 22
-running_time:     00:00:36
+max_search_depth: 21
+running_time:     00:00:01
 
-h-value: 12, g-value: 1, f-value: 13
+h-value: 10
 +-----+
 |6|1|8|
 -------
@@ -14,7 +14,7 @@ h-value: 12, g-value: 1, f-value: 13
 +-----+
    |
    v
-h-value: 12, g-value: 1, f-value: 13
+h-value: 9
 +-----+
 |6|1|8|
 -------
@@ -24,7 +24,7 @@ h-value: 12, g-value: 1, f-value: 13
 +-----+
    |
    v
-h-value: 12, g-value: 1, f-value: 13
+h-value: 10
 +-----+
 |6|1|8|
 -------
@@ -34,7 +34,7 @@ h-value: 12, g-value: 1, f-value: 13
 +-----+
    |
    v
-h-value: 12, g-value: 1, f-value: 13
+h-value: 11
 +-----+
 |6|1|8|
 -------
@@ -44,7 +44,7 @@ h-value: 12, g-value: 1, f-value: 13
 +-----+
    |
    v
-h-value: 10, g-value: 1, f-value: 11
+h-value: 10
 +-----+
 |6|1|0|
 -------
@@ -54,7 +54,7 @@ h-value: 10, g-value: 1, f-value: 11
 +-----+
    |
    v
-h-value: 10, g-value: 1, f-value: 11
+h-value: 11
 +-----+
 |6|0|1|
 -------
@@ -64,7 +64,7 @@ h-value: 10, g-value: 1, f-value: 11
 +-----+
    |
    v
-h-value: 10, g-value: 1, f-value: 11
+h-value: 12
 +-----+
 |6|3|1|
 -------
@@ -74,7 +74,7 @@ h-value: 10, g-value: 1, f-value: 11
 +-----+
    |
    v
-h-value: 12, g-value: 1, f-value: 13
+h-value: 13
 +-----+
 |6|3|1|
 -------
@@ -84,7 +84,7 @@ h-value: 12, g-value: 1, f-value: 13
 +-----+
    |
    v
-h-value: 12, g-value: 1, f-value: 13
+h-value: 12
 +-----+
 |6|3|1|
 -------
@@ -94,7 +94,7 @@ h-value: 12, g-value: 1, f-value: 13
 +-----+
    |
    v
-h-value: 12, g-value: 1, f-value: 13
+h-value: 11
 +-----+
 |6|3|1|
 -------
@@ -104,7 +104,7 @@ h-value: 12, g-value: 1, f-value: 13
 +-----+
    |
    v
-h-value: 10, g-value: 1, f-value: 11
+h-value: 10
 +-----+
 |6|3|1|
 -------
@@ -114,7 +114,7 @@ h-value: 10, g-value: 1, f-value: 11
 +-----+
    |
    v
-h-value: 8, g-value: 1, f-value: 9
+h-value: 9
 +-----+
 |6|3|1|
 -------
@@ -124,7 +124,7 @@ h-value: 8, g-value: 1, f-value: 9
 +-----+
    |
    v
-h-value: 6, g-value: 1, f-value: 7
+h-value: 8
 +-----+
 |0|3|1|
 -------
@@ -134,7 +134,7 @@ h-value: 6, g-value: 1, f-value: 7
 +-----+
    |
    v
-h-value: 8, g-value: 1, f-value: 9
+h-value: 7
 +-----+
 |3|0|1|
 -------
@@ -144,7 +144,7 @@ h-value: 8, g-value: 1, f-value: 9
 +-----+
    |
    v
-h-value: 8, g-value: 1, f-value: 9
+h-value: 6
 +-----+
 |3|1|0|
 -------
@@ -154,7 +154,7 @@ h-value: 8, g-value: 1, f-value: 9
 +-----+
    |
    v
-h-value: 8, g-value: 1, f-value: 9
+h-value: 5
 +-----+
 |3|1|2|
 -------
@@ -164,7 +164,7 @@ h-value: 8, g-value: 1, f-value: 9
 +-----+
    |
    v
-h-value: 8, g-value: 1, f-value: 9
+h-value: 4
 +-----+
 |3|1|2|
 -------
@@ -174,7 +174,7 @@ h-value: 8, g-value: 1, f-value: 9
 +-----+
    |
    v
-h-value: 6, g-value: 1, f-value: 7
+h-value: 3
 +-----+
 |3|1|2|
 -------
@@ -184,7 +184,7 @@ h-value: 6, g-value: 1, f-value: 7
 +-----+
    |
    v
-h-value: 4, g-value: 1, f-value: 5
+h-value: 2
 +-----+
 |3|1|2|
 -------
@@ -194,7 +194,7 @@ h-value: 4, g-value: 1, f-value: 5
 +-----+
    |
    v
-h-value: 2, g-value: 1, f-value: 3
+h-value: 1
 +-----+
 |3|1|2|
 -------
@@ -204,7 +204,7 @@ h-value: 2, g-value: 1, f-value: 3
 +-----+
    |
    v
-h-value: 0, g-value: 1, f-value: 1
+h-value: 0
 +-----+
 |0|1|2|
 -------
