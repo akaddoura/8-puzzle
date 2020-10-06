@@ -12,7 +12,7 @@ driver.py will accept two parameters:
   
   Example parameter input: 
   
-  $ driver.py ast "3 1 2 0 4 5 6 7 8"
+  $ driver.py ast "6 1 8 4 0 2 7 3 5"
 
 driver.py will create an output.txt file in the same folder with the steps to solve the problem.
 
@@ -23,7 +23,7 @@ nodes_expanded:   583
 search_depth:     21  
 max_search_depth: 21  
 running_time:     00:00:01  
-  
+
 h-value: 10  
 +-----+  
 |6|1|8|  
